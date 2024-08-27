@@ -1,0 +1,33 @@
+.navbar-pastel-pink {
+    background-color: #FFD1DC;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.logo{
+    width: 7%;
+    height: 7%;
+    border-radius: 20%;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+
+.admin_image{
+    width: 30%;
+    object-fit: contain;
+}
+
+/*contact css*/
+
